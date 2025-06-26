@@ -16,4 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on <a href=https://github.com/Juraj-Dostal/MachilpebApp>MachilpebApp</a>.
+🔭 I’m currently working on <a href=https://github.com/Juraj-Dostal/MachilpebApp>MachilpebApp</a>.<br>
+🌱 I’m currently learning ASP.NET Core.<br>
+📫 How to reach me: <br>
+  - Mail: web.juraj@gmail.com <br>
+  - Ig: <a href=https://www.instagram.com/dos_jur/>@dos_jur</a>
+  
