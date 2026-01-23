@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on <a href=https://github.com/Juraj-Dostal/Fisklas>Fisklas</a>.<br>
-🌱 I’m currently learning ASP.NET Core.<br>
+:computer: I’m currently learning ASP.NET Core.<br>
+:office: I’m currently working as a trainee developer at Softec.<br>
+
 📫 How to reach me: <br>
   - Mail: web.juraj@gmail.com <br>
   - Ig: <a href=https://www.instagram.com/dos_jur/>@dos_jur</a>
